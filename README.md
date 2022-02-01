@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-I'm Gabriel, a developer who spends 70% of my time crafting functional, user-focused Front-End experiences and 30% thoughtfully planning and cleanly coding the Back-End.
+I'm Gabriel, a developer who spends 70% of my time creating realistically-functional, user-focused Front-End experiences and 30% thoughtfully planning and cleanly coding the Back-End.
 
-## My Approach
+## Questions I answer
 
-- 🔄 **Code Meets Commerce:** I craft software that drives real business impact.
-- 🕵️‍♂️ **Curious Problem-Solver:** I uncover the "why" to build the best "how."
-- 🎨 **Experience Architect:** Bridging beauty, function, and purpose in every project.
-- 🧩 **Connector of Worlds:** Translating business goals into seamless tech solutions.
-- 🚀 **Impact-Driven:** Focused on outcomes that matter to users and businesses alike.
+- 🔄 **Code Meets Business:** How/Why will the platform help in elevating the business.
+- 🧩 **Connector of Worlds:** What requirements does the platform need to uncover.
+- 🎨 **Experience Architect:** How can we combine beauty, function, and purpose in the platform.
+- 🚀 **Impact-Driven:** What outcomes can be expected because of the platform.
 
 ## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
