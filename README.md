@@ -2,7 +2,7 @@
 
 I'm Gabriel, a developer who spends 70% of my time creating realistically-functional, user-focused Front-End experiences and 30% thoughtfully planning and cleanly coding the Back-End.
 
-## Questions I answer
+## Questions I answer...
 
 - 🔄 **Code Meets Business:** How/Why will the platform help in elevating the business.
 - 🧩 **Connector of Worlds:** What requirements does the platform need to uncover.
