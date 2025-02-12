@@ -9,7 +9,7 @@ I'm Gabriel, a developer who spends 70% of my time creating realistically-functi
 - 🎨 **Experience Architect:** How can we combine beauty, function, and purpose in the platform.
 - 🚀 **Impact-Driven:** What outcomes can be expected because of the platform.
 
-## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
+## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹s
 
 #### HTML & CSS
 
